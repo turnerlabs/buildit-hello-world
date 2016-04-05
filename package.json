@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/jkurz/buildit-hello-world.git"
   },
+  "engines": {
+    "node": "4.3.1",
+    "npm": "2.14.12"
+  },
   "keywords": [
     "docker",
     "registry",
@@ -20,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/jkurz/buildit-hello-world/issues"
   },
-  "homepage": "https://github.com/jkurz/buildit-hello-world#readme"
+  "homepage": "https://github.com/jkurz/buildit-hello-world#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
