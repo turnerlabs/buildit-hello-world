@@ -1,0 +1,24 @@
+{
+  "name": "buildit-hello-world",
+  "version": "1.0.0",
+  "description": "Hello world application for buildit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkurz/buildit-hello-world.git"
+  },
+  "keywords": [
+    "docker",
+    "registry",
+    "build"
+  ],
+  "author": "josh kurz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkurz/buildit-hello-world/issues"
+  },
+  "homepage": "https://github.com/jkurz/buildit-hello-world#readme"
+}
