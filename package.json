@@ -20,7 +20,7 @@
     "build"
   ],
   "author": "josh kurz",
-  "license": "MIT",
+  "license": "apache 2.0",
   "bugs": {
     "url": "https://github.com/jkurz/buildit-hello-world/issues"
   },
