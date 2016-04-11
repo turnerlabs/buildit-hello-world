@@ -1,6 +1,6 @@
 {
   "name": "buildit-hello-world",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hello world application for buildit",
   "main": "index.js",
   "scripts": {
